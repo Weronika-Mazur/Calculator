@@ -116,7 +116,7 @@ class Calculator {
       : getHistoryWithComputedValue();
 
     this.currentNumber = "0";
-    console.log(this.currentHistory);
+
     this.setHistory();
   }
 
